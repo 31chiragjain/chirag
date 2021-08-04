@@ -1,0 +1,27 @@
+#page-wraper {
+    background: url(../../images/page-bg1.jpg) no-repeat  fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-bottom: 50px;
+}
+h2{
+	font-size: 40px;
+}
+
+p{
+	padding-left: 30px;
+    font-size: 23px;
+}
+
+a{
+	font-size: 20px;
+    padding-left: 40px;
+    color: #00f2f2;
+}
